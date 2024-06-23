@@ -26,3 +26,12 @@ To play the game, simply run the script using Python
 python blackjack.py
 ```
 
+## Code explanation
+
+### Importing Required Modules
+```bash
+import random
+from os import system, name
+```
+-b(luca)
+
