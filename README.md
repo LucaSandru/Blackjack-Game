@@ -13,3 +13,16 @@ This is a simple Blackjack game written in Python. The game allows a user to pla
 1. Clone the repository:
    ```bash
    git clone https://github.com/LucaSandru/Blackjack-Game.git
+   ```
+   
+2. Navigate to the project directory:
+   ```bash
+   cd Blackjack-Game
+   ```
+   
+## Usage
+To play the game, simply run the script using Python
+```bash
+python blackjack.py
+```
+
