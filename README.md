@@ -12,4 +12,4 @@ This is a simple Blackjack game written in Python. The game allows a user to pla
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Blackjack-Game.git
+   git clone https://github.com/LucaSandru/Blackjack-Game.git
