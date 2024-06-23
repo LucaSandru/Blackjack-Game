@@ -59,7 +59,7 @@ def clear():
 2. If you choose to play, you will be asked how much cash you want to spend on the casino.
 3. The game will then enter a loop where you can place bets, receive cards, and decide whether to take additional cards or pass.
 4. The goal is to get as close to 21 without going over. If you hit 21 exactly with your initial two cards, you get a Blackjack and win immediately
-   **Observation**: If you don't know the rules of Blackjack, [click here](blackjack - rules.pdf)
+   **Observation**: If you don't know the rules of Blackjack, [click here](https://github.com/LucaSandru/Blackjack-Game/blob/main/blackjack%20-%20rules.pdf)
 6. The computer will also draw cards, and the game will compare your hand to the computer's hand to determine the winner.
 7. After each round, if you still have cash, you can choose to play again or quit.
   
